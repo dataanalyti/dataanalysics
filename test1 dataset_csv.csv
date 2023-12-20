@@ -1,0 +1,4 @@
+name,rollno,semester1,semester2,semester3,semester4,semester5,semester6,semester7,semester8,totalmarkallsemester,average,report,dropout
+?,1001,98,91,92,90,90,98,91,90,188,23.5,pass,0
+?,1009,18,45,64,10,45,36,13,0,18,2.2,fail,1
+?,1010,10,18,37,0,98,57,56,0,10,13.5,fail,1
